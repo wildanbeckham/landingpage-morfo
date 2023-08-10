@@ -2,7 +2,7 @@
   import Faq from "./faq.svelte";
 </script>
 
-<main class="py-14 bg-primary">
+<main class="py-14 bg-gradient-to-b from-thirt to-seccondary">
   <div
     class="mx-auto max-w-screen-xl rounded-xxl lg:flex lg:h-full bg-[url('/img/langganan.svg')] bg-no-repeat bg-right p-16 my-10 border-8 border-white p-8"
   >
