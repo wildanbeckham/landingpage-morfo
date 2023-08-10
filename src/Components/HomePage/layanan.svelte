@@ -51,5 +51,6 @@
     <button type="button" class="" on:click={() => swiper.slideNext()}
       ><img src="/img/right.svg" alt="" /></button
     >
+    test
   </div>
 </main>
